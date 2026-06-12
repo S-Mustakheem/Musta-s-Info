@@ -1,35 +1,63 @@
-# Musta-s-Info
-Hello world, this is my profile.
+<div align="center">
+  <h1>👋 Shaik Mustakheem</h1>
+  <p><strong> Data Analyst & Power BI Developer</strong></p>
+  <p>Architecting enterprise-grade BI frameworks, data pipelines, and intelligent analytical interfaces.</p>
+  
+  <a href="https://www.linkedin.com/in/shaik-mustakheem-7243a6276/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:shaikmustakheem999@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
-# Hi there, I'm Shaik Mustakheem! 👋
+<br/>
 
-### 🚀 About Me
-A passionate Power BI Developer and Data Analyst focused on transforming raw data into actionable insights, building intelligent applications, and creating scalable web solutions with clean code. 
+## 🛠️ Core Capabilities Matrix
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Business Intelligence & UI/UX</h3>
+      <ul>
+        <li><strong>Framework Design:</strong> Import, DirectQuery, Composite frameworks</li>
+        <li><strong>Data Modeling:</strong> Enterprise Star Schema design & performance tuning</li>
+        <li><strong>UI Canvas Design:</strong> Custom dashboard layouts using HTML/CSS/JS embedding</li>
+        <li><strong>Advanced Analytics:</strong> Complex DAX formulation & Power Query ETL pipelines</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 Data Engineering & Scripting</h3>
+      <ul>
+        <li><strong>Database Management:</strong> Relational databases, advanced SQL script optimization</li>
+        <li><strong>Data Science Scripting:</strong> Python automated data transformations (Pandas, NumPy)</li>
+        <li><strong>Application Integration:</strong> Conversational AI integration & intelligent data systems</li>
+        <li><strong>Version Control:</strong> PBIP project tracking & GitHub enterprise CI/CD integration</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### 📊 What I'm Up To
+<br/>
 
-* **🔭 I’m currently working on** * Designing interactive, end-to-end data pipelines and analytical solutions.
-  * Optimizing machine learning models for healthcare applications.
+## ⚡ Technical Engine Room
 
-* **🌱 I’m currently learning**
-  * Advanced Power BI tools, DAX optimization, and creating professional corporate dashboards.
-  * Integrating Python analytics smoothly with visualization platforms.
+```text
+Power BI / DAX        ██████████████████████████████████████▒ 95%
+SQL Databases         ████████████████████████████████▒▒▒▒▒▒▒ 80%
+Power Query / ETL     ████████████████████████████████████▒▒▒ 90%
+Python (Data Prep)    ████████████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 65%
+UI/UX (HTML/CSS/JS)   ████████████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 65%
 
-* **🤝 I’m looking to collaborate on**
-  * Open-source Power BI projects and professional data analytics dashboards.
-  * AI/Computational intelligence tools and chatbot development (like RASA frameworks).
 
-* **💬 Ask me about**
-  * Power BI dashboards, data modeling, and being passionate about data analytics.
-  * Computer vision models and AI integration.
-  * Building conversational AI and professional data-driven dashboards.
 
----
 
-### 📫 Connect With Me
 
-* **💬 Ask me for help with** Crafting professional dashboards, optimizing data visualizations, or setting up Python backends.
-* **📫 How to reach me:** [shaikmustakheem999@gmail.com](mailto:shaikmustakheem999@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/shaik-mustakheem-7243a6276/)
-* **🙋‍♂️ Pronouns:** He / Him
+
+
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-mustakheem&show_icons=true&locale=en" alt="s-mustakheem" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-mustakheem&" alt="s-mustakheem" /></p>
