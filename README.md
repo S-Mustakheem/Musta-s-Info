@@ -57,7 +57,3 @@ UI/UX (HTML/CSS/JS)   ███████████████████�
 
 
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-mustakheem&show_icons=true&locale=en" alt="s-mustakheem" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-mustakheem&" alt="s-mustakheem" /></p>
